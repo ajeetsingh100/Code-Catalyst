@@ -12,8 +12,8 @@ Screenshots of the application are available in the repository.
 Key Features
 
 Student Features
-  -User authentication (Signup / Login)
-  -Browse available courses
+  - User authentication (Signup / Login)
+  - Browse available courses
   -	Secure course purchase using Razorpay
   -	Enroll in courses
   -	Track learning progress
@@ -44,22 +44,21 @@ Backend Features
   -	Error handling & middleware architecture
 
 Tech Stack
-
   Frontend
-    -	React.js
+    - React.js
     -	Redux
     -	JavaScript
     -	HTML5
     -	CSS3
   
   Backend
-    -	Node.js
+    - Node.js
     -	Express.js
     -	MongoDB
     -	REST API
   
   Third-Party Services
-    -	Cloudinary (Media Storage)
+    - Cloudinary (Media Storage)
     -	Razorpay (Payment Gateway)
 
 Learning Outcomes
@@ -71,6 +70,7 @@ Through this project I gained hands-on experience with:
   -	Managing media uploads with Cloudinary
   -	Designing RESTful APIs
   -	State management with Redux
+    
 Author
 
   Ajeet Singh
