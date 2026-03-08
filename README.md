@@ -72,8 +72,8 @@ Through this project I gained hands-on experience with:
   -	Designing RESTful APIs
   -	State management with Redux
     
-Author
+Author  
 
-  Ajeet Singh
-  MERN Stack Developer 
-  MCA Final Semester Student
+Ajeet Singh  
+MERN Stack Developer  
+MCA Final Semester Student
