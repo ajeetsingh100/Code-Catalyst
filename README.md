@@ -6,7 +6,7 @@ The platform implements role-based authentication, secure payment processing, an
 Live Demo
 Live Link: https://codecatalyst-frontend.vercel.app
 
-Screenshots
+Screenshots  
 Screenshots of the application are available in the repository.
 
 Key Features
