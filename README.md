@@ -43,8 +43,8 @@ Backend Features
   -	Cloudinary media storage
   -	Error handling & middleware architecture
 
-Tech Stack
-#Frontend
+Tech Stack  
+Frontend
   - React.js
   -	Redux
   -	JavaScript
