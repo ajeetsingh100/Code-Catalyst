@@ -3,7 +3,7 @@ Project name: CodeCatalyst – MERN Stack E-Learning Platform
 Project description: CodeCatalyst is a full-stack online learning platform built using the MERN stack.  It allows instructors to create and publish courses while students can enroll, make secure payments, and track their learning progress.
 The platform implements role-based authentication, secure payment processing, and RESTful API architecture, making it a scalable and production-ready learning management system.
 
-Live Demo
+Live Demo  
 Live Link: https://codecatalyst-frontend.vercel.app
 
 Screenshots  
