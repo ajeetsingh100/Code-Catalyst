@@ -44,22 +44,22 @@ Backend Features
   -	Error handling & middleware architecture
 
 Tech Stack
-  Frontend
-    - React.js
-    -	Redux
-    -	JavaScript
-    -	HTML5
-    -	CSS3
-  
-  Backend
-    - Node.js
-    -	Express.js
-    -	MongoDB
-    -	REST API
-  
-  Third-Party Services
-    - Cloudinary (Media Storage)
-    -	Razorpay (Payment Gateway)
+Frontend
+  - React.js
+  -	Redux
+  -	JavaScript
+  -	HTML5
+  -	CSS3
+
+Backend
+  - Node.js
+  -	Express.js
+  -	MongoDB
+  -	REST API
+
+Third-Party Services
+  - Cloudinary (Media Storage)
+  -	Razorpay (Payment Gateway)
 
 Learning Outcomes
 
