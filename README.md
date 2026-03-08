@@ -44,7 +44,7 @@ Backend Features
   -	Error handling & middleware architecture
 
 Tech Stack
-Frontend
+#Frontend
   - React.js
   -	Redux
   -	JavaScript
